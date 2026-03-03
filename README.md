@@ -1,4 +1,4 @@
-# Final-Year-1st-semester-ML-Course
+# Final-Year-2nd-semester-ML-Course
 This is the reference platform for code walkthrough
 
 ## Course Description
@@ -34,7 +34,12 @@ By the end of the course, students should be able to:
 Students are expected to read independently; class time is used to go deeper, challenge assumptions, and apply concepts.
 
 ### Recommended Textbooks & Resources 
-*While the course does not strictly follow one textbook, the following are highly recommended for theoretical intuition and mathematical grounding:*
+*While the course does not strictly follow one textbook, the following are highly recommended for theoretical intuition and mathematical grounding:*    
+
+- Python Machine Learning by Sebastian Raschka & Vahid Mirjalili
+- Hands-on Machine Learning with Python by Ashwin Pajankar and Aditiya Joshi
+
+Others:
 - Pattern Recognition and Machine Learning by Christopher M. Bishop.
 - Machine Learning: A Probabilistic Perspective by Kevin P. Murphy.
 - The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
